@@ -1,0 +1,16 @@
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\bin\Debug\Generate_QRCode_AND_print.exe.config
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\bin\Debug\Generate_QRCode_AND_print.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\bin\Debug\Generate_QRCode_AND_print.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\Generate_QRCode_AND_print.csprojResolveAssemblyReference.cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\Barcode_Scanner_Generator_C_Sharp.Form1.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\Generate_QRCode_AND_print.csproj.GenerateResource.Cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\Generate_QRCode_AND_print.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\Generate_QRCode_AND_print.pdb
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\Generate_QRCode_AND_print\app\bin\Debug\Generate_QRCode_AND_print.exe.config
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\Generate_QRCode_AND_print\app\bin\Debug\Generate_QRCode_AND_print.exe
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\Generate_QRCode_AND_print\app\bin\Debug\Generate_QRCode_AND_print.pdb
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\Generate_QRCode_AND_print\app\obj\Debug\Generate_QRCode_AND_print.csprojResolveAssemblyReference.cache
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\Generate_QRCode_AND_print\app\obj\Debug\Barcode_Scanner_Generator_C_Sharp.Form1.resources
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\Generate_QRCode_AND_print\app\obj\Debug\Generate_QRCode_AND_print.csproj.GenerateResource.Cache
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\Generate_QRCode_AND_print\app\obj\Debug\Generate_QRCode_AND_print.exe
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\Generate_QRCode_AND_print\app\obj\Debug\Generate_QRCode_AND_print.pdb

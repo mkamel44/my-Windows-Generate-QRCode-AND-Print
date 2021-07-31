@@ -1,0 +1,32 @@
+C:\Users\1\Desktop\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\app\app\obj\Debug\Barcode_Scanner_Generator_C_Sharp.Form1.resources
+C:\Users\1\Desktop\app\app\obj\Debug\app.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\app\app\bin\Debug\app.exe.config
+C:\Users\1\Desktop\app\app\bin\Debug\app.exe
+C:\Users\1\Desktop\app\app\bin\Debug\app.pdb
+C:\Users\1\Desktop\app\app\obj\Debug\app.exe
+C:\Users\1\Desktop\app\app\obj\Debug\app.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\app\app\bin\Debug\app.exe.config
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\app\app\bin\Debug\app.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\app\app\bin\Debug\app.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\app\app\obj\Debug\Barcode_Scanner_Generator_C_Sharp.Form1.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\app\app\obj\Debug\app.csproj.GenerateResource.Cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\app\app\obj\Debug\app.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\app\app\obj\Debug\app.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\Generate QRCode\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\Generate QRCode\app\obj\Debug\Barcode_Scanner_Generator_C_Sharp.Form1.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\Generate QRCode\app\obj\Debug\app.csproj.GenerateResource.Cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\Generate QRCode\app\obj\Debug\app.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\Generate QRCode\app\bin\Debug\app.exe.config
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\Generate QRCode\app\bin\Debug\app.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\Generate QRCode\app\bin\Debug\app.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\Generate QRCode\app\obj\Debug\app.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\bin\Debug\app.exe.config
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\bin\Debug\app.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\bin\Debug\app.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\Barcode_Scanner_Generator_C_Sharp.Form1.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\app.csproj.GenerateResource.Cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\app.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\Generate QRCode\app\obj\Debug\app.pdb

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate_QRCode_AND_print", "app\Generate_QRCode_AND_print.csproj", "{6D9925D0-2710-4A38-8EFC-5C32B388B170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D9925D0-2710-4A38-8EFC-5C32B388B170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9925D0-2710-4A38-8EFC-5C32B388B170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9925D0-2710-4A38-8EFC-5C32B388B170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9925D0-2710-4A38-8EFC-5C32B388B170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
